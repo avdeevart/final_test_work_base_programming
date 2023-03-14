@@ -25,3 +25,7 @@
 исключительно массивами.
 ***
 ## `Решение:`
+
+### 1. Принцип решения задачи, отражен в блок-схеме.
+![Блок-схема решения условий задачи](https://github.com/avdeevart/final_test_work_base_programming/blob/main/CircuitDiagram.jpg)
+### [2. Исходный код программы, решающей поставленную задачу.](https://github.com/avdeevart/final_test_work_base_programming/blob/main/Program.cs)
